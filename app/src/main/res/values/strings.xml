@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Snehal Milk Manager</string>
+    <string name="shop_default_name">Snehal Super Market</string>
+    <string name="shop_tagline">Daily Milk Sales &amp; Billing Manager</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_daily_entries">Daily Entries</string>
+    <string name="nav_customers">Customers</string>
+    <string name="nav_monthly_bills">Monthly Bills</string>
+    <string name="nav_settings">Settings</string>
+    <string name="action_add_milk_entry">Add Milk Entry</string>
+    <string name="action_add_customer">Add Customer</string>
+    <string name="action_generate_bills">Generate Bills</string>
+    <string name="action_view_reports">Reports</string>
+    <string name="action_share_whatsapp">Share on WhatsApp</string>
+    <string name="action_download_pdf">Download PDF</string>
+    <string name="action_print_bill">Print Bill</string>
+    <string name="action_copy_message">Copy Message</string>
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_edit">Edit</string>
+    <string name="cd_shop_banner">Snehal Super Market dairy banner illustration</string>
+    <string name="cd_app_logo">Snehal Super Market Milk Manager logo</string>
+    <string name="cd_navigate_back">Navigate back</string>
+    <string name="cd_search">Search</string>
+    <string name="cd_clear_search">Clear search</string>
+    <string name="cd_filter">Filter</string>
+</resources>

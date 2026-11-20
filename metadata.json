@@ -1,0 +1,6 @@
+{
+  "name": "Snehal Milk Manager",
+  "description": "Offline-first daily milk packet sales, customer ledger, automatic monthly billing, PDF statements, and WhatsApp bill sharing app for Snehal Super Market.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
